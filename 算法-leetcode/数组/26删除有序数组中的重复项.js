@@ -1,4 +1,5 @@
 // 简单
+// 打卡
 // 
 // https://leetcode-cn.com/problems/rotate-array/
 // https://leetcode-cn.com/problems/merge-two-sorted-lists/
@@ -28,6 +29,7 @@ var removeDuplicates = function(nums) {
     }
     return slow;
 };
+
 
 
 var removeDuplicates1 = function(nums) {
